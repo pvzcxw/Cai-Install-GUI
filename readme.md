@@ -1,4 +1,4 @@
-# Cai Install XP - Steam 游戏清单获取与导入工具
+# Cai Install GUI - Steam 游戏清单获取与导入工具
 
 **版本：v1.52b1 (GUI Edition-Final Vision)**  
 **作者：pvzcxw**  
